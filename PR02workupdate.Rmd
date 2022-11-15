@@ -1,7 +1,7 @@
 ---
 title: "Group Project Update"
 subtitle: "STT2860 F22 Project 02"
-author: "Authors: ALL GROUP MEMBER NAMES HERE"
+author: "Authors: Lauren Edelman, Taylor Lautz, and Nichole Johnson"
 date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
 output: 
   html_document: 
@@ -14,18 +14,19 @@ output:
 
 Refer back to your original work plan. Has anything changed? Who has completed what portions of the project? Explain.
 
-ERASE THIS TEXT AND ANSWER THE QUESTION
+
+Our workplan has not changed from what we said it would be in the original plan. Nichole submitted the original plan and we have collectively worked on the graphs. Taylor played a big role in completing graphs 1-3. We plan to finish graphs 3-5 during class time should R Studio cooperate. 
 
 **Completion Timeline Update**
 
 Refer back to your original timeline. Has anything changed? What pieces of the project are done and what are still left to do? Explain.
 
-ERASE THIS TEXT AND ANSWER THE QUESTION
+According to our original timeline we are still on track. We have completed most parts up to graph 4 and we will plan to finish all of the work by the end of class. Any work that is not completed that will need to be done outside of class we will split up amongst each other. 
 
 **Communication Update**
 
 Refer back to your communication plan. Has anything changed? Has everyone communicated in an effective and timely manner? Be honest! Explain.
 
-ERASE THIS TEXT AND ANSWER THE QUESTION
+Our communication plan is still the same and so far everyone has communicated in an effective and timely manner. 
 
 ***

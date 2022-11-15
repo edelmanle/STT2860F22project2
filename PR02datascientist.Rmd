@@ -1,7 +1,7 @@
 ---
 title: "Becoming a Data Scientist"
 subtitle: "STT2860 Project 01 Fall 2022"
-author: "YOUR NAME HERE"
+author: "Lauren Edelman"
 date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
 output: 
   html_document: 
@@ -12,43 +12,43 @@ output:
 
 **Q1: What is the name of the person interviewed?**
 
-ANSWER:
+ANSWER: The name of the person interviewed for this data scientist podcast was a man named Andrew Therriault. 
 
 **Q2: Why did you choose the particular interview you did?**
 
-ANSWER:
+ANSWER: I chose this interview over some of the others that were listed because while reading the description, it interested and intrigued me a lot that this man was formerly the Director of Data Science for the Democratic National Committee & Chief Data Officer for the City of Boston, and he is  currently the Data Science Manager at Facebook. All of these things popped out as big to me. National committee? Facebook? These places/things seemed to be well known and recognized so it seems to me that this man is important, smart, and well versed in data science. 
 
 **Q3: Does the person consider themselves a data scientist?**
 
-ANSWER:
+ANSWER: Andrew does consider himself a data scientist. He says he takes a broad view of what data science means. He claims that it is everything from basic data management and analytics all the way up.  
 
 **Q4: What is their formal and self-taught education in data science?**
 
-ANSWER:
+ANSWER: Andrew loved math and science as a kid. He got a computer at a young age. He always asked what everything meant to his dad and his dad eventually got so fed up with the questions that he told Andrew to figure it out himself so he did. Andrew still continued his love for math and science all throughout high school but in college he did not do any of that beyond the basic requirements. His undergrad was not relevant to what he does now. His self learning was guided by the projects he was working on. 
 
 **Q5: What has been their career path? Did they start off in data science?**
 
-ANSWER:
+ANSWER: Andrew's career path started off as majoring in political science. He says it required the fewest credits to graduate. Eventually he was off in real world and worked in the 2004 campaign and learned that he enjoyed working in politics but wanted to be useful and not just walk around with a clipboard as he puts it. He ended up going to grad school soon after. He went into a masters program and headed into quantitative political science and was coding. He did not think of it as data science. A lot of his future jobs where he is at today is due to n etwork connections that he had.
 
-**Q6: What programs/technologies to they use when working in data science?**
+**Q6: What programs/technologies do they use when working in data science?**
 
-ANSWER:
+ANSWER: He uses python for a lot of his work and eventually learned sequel when he worried about working on a production database within a database warehouse. Tutorials are your friend and books as well Andrew says. 
 
 **Q7: What is one interesting (to you) data science problem they have worked on?**
 
-ANSWER:
+ANSWER: In Andrew's dissertation he did a project that took a massive dataset that contained every single airing of political tv advertisement ads. He mapped that together with large panel surveys. He was able to map out exposure to advertising during the election. He was then able to use this information to calculate people's individual levels of exposure and their changes in perceptions to political candidates. 
 
 **Q8: Are there any specific pieces of advice they gave that inspire/resonate with you?**
 
-ANSWER:
+ANSWER: Andrew said that even if you go into the direction of data science, you should find an area to focus in. He said that 4-5 years ago there was a shortage of data scientists, and now we are flooded with junior data scientists so the questions comes up: How do you distinguish yourself? The answer: by having expertise in a particular area.  
 
 **Q9: Was there anything that surprised you or that you particularly identified with?**
 
-ANSWER:
+ANSWER: I had also identified with Andrew when it came to college. I originally planned on one career path and once i got more into it, for my case, it became hard with the credits so I changed career paths to do something I am interested in, I love, and something I can actually put more effort into enjoying and making progress in. 
 
-**Q10: Q10: How did this person path differ from the previous interview you watched?**
+**Q10: How did this person path differ from the previous interview you watched?**
 
-ANSWER:
+ANSWER: Andrew's path differed from Randal's in the fact that Randal went into college focused on taking computer science courses and being interested in AI technology and more. For Andrew though, he went into college focusing on political science. He did not think he would get into data science at this point in life where he was at. He got more into it because he enjoyed political science, but he wanted to do more with it and actually use his love for math and science and put those strong suits to use. When doing so, he took a masters and went into grad school for quantitative political science but did not think of it as data science at first. When you put two and two together and take his work from when he started doing surveys and projects before he went into grad school, that form of gathering of information and pulling it together to make conclusions shows exactly what data science is and what you can do with it.  
 
 <hr>
 

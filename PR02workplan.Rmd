@@ -1,7 +1,7 @@
 ---
 title: "Group Work Plan"
 subtitle: "STT2860 F22 Project 02"
-author: "Authors: ALL GROUP MEMBER NAMES HERE"
+author: "Authors: Lauren Edelman, Taylor Lautz, and Nichole Johnson"
 date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
 output: 
   html_document: 
@@ -12,18 +12,14 @@ output:
 
 **Work Plan/Assignments**
 
-ERASE THIS TEXT AND OUTLINE/EXPLAIN YOUR PLAN FOR COMPLETING THE PROJECT WORK
-
-INCLUDE WHO WILL BE RESPONSIBLE FOR COMPLETING WORK, UPLOADING DOCUMENTS, ETC.
-
-YOU SHOULD ALSO HAVE A PLAN FOR CHECKING ONE ANOTHER'S WORK IF YOU SPLIT IT UP
+We will all be responsible for completing work on this project. Nichole Johnson will be the one to submit the group portion, work plan, and work update of this project. We will all individually upload our final portions of our individual parts. If we split up work, we plan on communicating to each other on how to do so if we decide to split up work outside of class at all.
 
 **Completion Timeline**
 
-ERASE THIS TEXT AND OUTLINE/EXPLAIN YOUR PLANNED TIMELINE FOR TASK COMLETION
+We plan on completing this project during class on 11/8 and 11/10. If we are not able to finish our group portion during these class times, we plan to communicate over text and make our next steps and plans on how we should move forward on finishing this project together. 
 
 **Communication Plan**
 
-ERASE THIS TEXT AND OUTLINE/EXPLAIN YOUR PLAN FOR EFFECTIVE GROUP COMMUNICATION
+We plan to communicate via text message if we need to discuss the project outside of class.
 
 ***

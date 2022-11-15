@@ -23,13 +23,16 @@ knitr::opts_chunk$set(
 ### Packages Used
 
 ```{r}
-
+library(tidyverse)
+library(ggplot2)
 ```
 
 ### Read Data Files
 
 ```{r}
-
+cappunish <- readRDS("cappunish.rds")
+deathrowsize <- readRDS("deathrowsize.rds")
+deathsentencesNC <- readRDS("deathsentencesNC.rds")
 ```
 
 ### Plot #1: How Many States Have Capital Punishment? 
@@ -42,7 +45,13 @@ knitr::opts_chunk$set(
 * This plot should *not* have a visible legend anywhere on it.
 
 ```{r}
-
+ggplot(cappunish, aes(x = dp2)) +
+	geom_bar(color = "black", fill = "skyblue") +
+	labs(
+    title = "Death Penalty Options",
+    x = "Legality of Death Penality, or Moratorium",
+    y = "Number of States") +
+	theme_bw() 
 ```
 
 ### Plot #2: Capital Punishment By Region of the U.S.
